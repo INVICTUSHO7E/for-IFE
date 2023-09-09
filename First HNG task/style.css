@@ -1,0 +1,13 @@
+* {
+    background-color: rgb(242, 230, 230);
+}
+
+#slackUserName {
+    align-self: center;
+    color: rgb(77, 77, 233);
+}
+
+#githubURL {
+    text-decoration-line: none;
+    color: black;
+}
